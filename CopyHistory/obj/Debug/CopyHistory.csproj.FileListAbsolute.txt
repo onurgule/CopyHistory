@@ -1,0 +1,9 @@
+c:\users\m2hes\documents\visual studio 2017\Projects\CopyHistory\CopyHistory\bin\Debug\CopyHistory.exe.config
+c:\users\m2hes\documents\visual studio 2017\Projects\CopyHistory\CopyHistory\bin\Debug\CopyHistory.exe
+c:\users\m2hes\documents\visual studio 2017\Projects\CopyHistory\CopyHistory\bin\Debug\CopyHistory.pdb
+c:\users\m2hes\documents\visual studio 2017\Projects\CopyHistory\CopyHistory\obj\Debug\CopyHistory.csprojResolveAssemblyReference.cache
+c:\users\m2hes\documents\visual studio 2017\Projects\CopyHistory\CopyHistory\obj\Debug\CopyHistory.Form1.resources
+c:\users\m2hes\documents\visual studio 2017\Projects\CopyHistory\CopyHistory\obj\Debug\CopyHistory.Properties.Resources.resources
+c:\users\m2hes\documents\visual studio 2017\Projects\CopyHistory\CopyHistory\obj\Debug\CopyHistory.csproj.GenerateResource.Cache
+c:\users\m2hes\documents\visual studio 2017\Projects\CopyHistory\CopyHistory\obj\Debug\CopyHistory.exe
+c:\users\m2hes\documents\visual studio 2017\Projects\CopyHistory\CopyHistory\obj\Debug\CopyHistory.pdb
